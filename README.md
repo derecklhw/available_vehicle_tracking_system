@@ -26,7 +26,7 @@ This project is a simple vehicle tracking system implemented in `C++` that allow
    make all & make test
    ```
 
-   This will create two executables: `vehicle_tracking` for the main program and `testing` for running tests.
+   This will create two executables: `execute` for the main program and `testing` for running tests.
 
 ## Usage
 
